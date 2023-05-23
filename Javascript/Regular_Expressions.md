@@ -233,16 +233,3 @@ g | 전역 검색
 i | 대소문자 구분 없는 검색
 m | 다중행(multi-line) 검색
 u | 유니코드; 패턴을 유니코드 코드 포인트의 나열로 취급한다.
-
----
-
-#### Reference
-
-- [많이 사용하는 패턴 정리](https://github.com/SeonHyungJo/Dont_Waste_Your_Time/issues/15)
-- [정규표현식의 개념과 기초 문법](https://soooprmx.com/archives/7718)
-- [[정규식] 사용방법 / 정규식 예제](https://mkil.tistory.com/205)
-- [정규 표현식 (좀 더) 깊이 알아보기](https://medium.com/@originerd/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%EC%A2%80-%EB%8D%94-%EA%B9%8A%EC%9D%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-5bd16027e1e0)
-- [정규식 테스트 사이트 모음](https://m.blog.naver.com/PostView.nhn?blogId=syung1104&logNo=220847918251&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
-- [정규식 - MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/%EC%A0%95%EA%B7%9C%EC%8B%9D)
-- [https://regexr.com/](https://regexr.com/)
-- [https://regexper.com/](https://regexper.com/)
